@@ -1,0 +1,78 @@
+DJANGO WEBAPPLICATIONS
+
+webapps : facebook insta amazon flipkart
+
+web application : loading in webbrowser +
+                  backend(database)+frontend
+
+                  static website(no database)
+
+Frontend
+     html - displaying content on screen
+     css(cascading style sheet) - for styling
+     bootstrap - for styling - css framework
+
+     react,angular,vue(framework,libraries)
+
+     javascript - interactive
+     ajax -  communicating with backend
+           without submit button
+
+Backend
+
+           1.store data - uses database
+                       (mysql,postgres,mongodb)
+           2.data processing
+                       python,php,c#,
+                       java,nodejs provide platform for java
+
+
+we study
+Frontend
+     html
+     css
+     bootstrap
+     angular
+     javascript
+     ajax
+Backend
+ 1.store data - mysql,sqllite
+ 2.data process -  python
+
+
+
+ frameworks
+    java-spring,springboot
+    c#-.net
+    php-wordpress
+    nodejs-express
+    typescript,javascript-angular
+    python-django,flask
+
+ Framework
+  *basic structure , architecture present
+  *collection of predefined functions and classes
+  *bound with set of rules
+
+ Library
+  pandas
+  re
+
+ project
+  registration,login,logout
+  *highlevel functionality
+  *inversion of control
+
+git and github
+
+Cloning is done so data can be cloned or copied from remote location to all developers
+
+git clone => remote repository exact copy to local
+git push => local repo to remote repository
+git pull => remote repository to local(updations)
+
+git add => adding to staging area from local storage
+git commit => staging area to local repo
+
+git init => initializing empty git repository
+git status => list all untracked files
