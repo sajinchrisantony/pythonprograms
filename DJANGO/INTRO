@@ -76,3 +76,22 @@ git commit => staging area to local repo
 
 git init => initializing empty git repository
 git status => list all untracked files
+
+git init
+ initializing empty git repository
+git status
+ list all untracked files
+git add filename
+ add files into staging area
+
+git commit -m"message"
+ adding files to local repository
+
+git remote add projectname(in git) githublink
+ creating a remote project
+
+git push -u projectname(in git) master
+ sending files to remote repository
+
+git clone githublink
+ copying files from remote repository
